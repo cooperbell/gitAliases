@@ -1,4 +1,4 @@
-## place into your ~/.zshrc
+## place into your ~/.zshrc or ~/.bashrc
 
 # -------
 # Aliases
