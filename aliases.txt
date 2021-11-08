@@ -1,7 +1,7 @@
 ## place into your ~/.zshrc or ~/.bashrc
 
 # -------
-# Aliases
+# Git aliases
 # -------
 alias gs='git status'
 alias gpl='git pull'
@@ -14,3 +14,4 @@ alias gcm='git commit'
 alias gps='git push'
 alias gcb='git checkout -b'
 alias gsh='git stash'
+alias ga='git add'
